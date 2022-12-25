@@ -7,7 +7,7 @@
 
 if(youWantToReachMe == true)
       {
-      Console.WriteLine("e-mail: kaangurbuz144@gmail.com;");
+      Console.WriteLine("e-mail: kaangurbuz144@gmail.com");
       }
       else
       {
