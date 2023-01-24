@@ -14,4 +14,4 @@ if(youWantToReachMe == true)
       return false;
       }
       
-and you can find mi on Exercism if you want. https://exercism.org/profiles/keeayg      
+and you can find me on Exercism if you want. https://exercism.org/profiles/keeayg      
