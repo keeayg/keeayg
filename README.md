@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">I’m interested in learning new features,</h3>
-
-- 🔭 I’m currently working on **a Blog Site about news**
-
-- 🌱 I’m currently learning **C#, Python, SQL DB, Docker and interest in Machine Learning these days...**
-
-- 📫 How to reach me **kaangurbuz144@gmail.com**
-
-- ⚡ Fun fact **I am Nerd about everything...**
+<h1 align="center">Hi 👋</h1>
+<h3 align="center"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
